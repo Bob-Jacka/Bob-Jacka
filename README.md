@@ -22,4 +22,4 @@
 * [Ручное тестирование веб-приложений](https://github.com/Bob-Jacka/Bob-Jacka/blob/main/HandTesting.pdf "Нажмите на меня")
 * [Java для тестировщиков](https://github.com/Bob-Jacka/Bob-Jacka/blob/main/All-courses.pdf "Нажмите на меня")
 * [HTML и CSS для тестировщиков](https://github.com/Bob-Jacka/Bob-Jacka/blob/main/Html-css.pdf "Нажмите на меня")
-* [Система контроля версия Git](https://github.com/Bob-Jacka/Bob-Jacka/blob/main/Git.pdf "Нажмите на меня")
+* [Система контроля версий Git](https://github.com/Bob-Jacka/Bob-Jacka/blob/main/Git.pdf "Нажмите на меня")
